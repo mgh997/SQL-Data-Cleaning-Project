@@ -1,4 +1,4 @@
-# SQL-Data-Cleaning-Project
+# SQL-Data-Cleaning-Project-Nashville
 
 ## Overview
 This project shows data cleaning and transformation using SQL on a real estate dataset for Nashville. The goal was to prepare the data for analysis by standardizing dates, handling missing values, structuring address fields, cleaning categorical data, removing duplicates, and removing unnecessary columns.  
